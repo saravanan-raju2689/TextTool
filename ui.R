@@ -8,7 +8,7 @@ library(shinyBS)
 library(rhandsontable)
 library(DT)
 library(rd3Cluster)
-#source("labelInput.R")
+
 shinyUI(dashboardPage(
   
   skin = "green",
